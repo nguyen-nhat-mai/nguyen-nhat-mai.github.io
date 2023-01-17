@@ -24,11 +24,11 @@
 
 ### Deep learning
 
-[Satellite image semantic segmentation](http://example.com/)
+[Satellite image semantic segmentation](https://github.com/nguyen-nhat-mai/satellite-image-semantic-segmentation)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Triangle vertix determination](http://example.com/)
+[Image classification](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
