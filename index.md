@@ -4,8 +4,9 @@
 
 ### Classical machine learning
 
-[Fake news detection](/sample_page)
+[Fake news detection](https://github.com/nguyen-nhat-mai/fake-news-detection)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Customer segmentation](/pdf/sample_presentation.pdf)
