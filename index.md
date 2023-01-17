@@ -1,4 +1,4 @@
-## Portfolio
+## Project Portfolio
 
 ---
 
@@ -28,7 +28,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Image classification](http://example.com/)
+[CIFAR-10 Image classification](https://github.com/nguyen-nhat-mai/CIFAR-10-image_classification)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
