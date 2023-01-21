@@ -2,7 +2,7 @@
 
 ---
 
-[Fake news detection](https://github.com/nguyen-nhat-mai/fake-news-detection)
+**[Fake news detection](https://github.com/nguyen-nhat-mai/fake-news-detection)**
 
 The task was to employ traditional machine learning (ML) classification methods to mine the text and identify unreliable news. The dataset comprises 44,898 rows representing fake and reliable news. For each news, article title, text, type and the date the article was published on are provided. The majority of the news focus on political and world news topics. ML methods employed are Naive Bayes, Logistics Regression, Knn, Decision Tree. The performances of models were evaluated using accuracy score and running time. Decision Tree proved to outperform in this case.
 ![image](https://user-images.githubusercontent.com/85484281/213877316-300a49da-d577-451c-9e0c-5634a601071e.png)
