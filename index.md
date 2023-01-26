@@ -6,7 +6,7 @@
 
 The task was to employ traditional machine learning (ML) classification methods to mine the text and identify unreliable news. The dataset comprises 26,000 rows representing fake and reliable news. For each article, title, text, author and label are provided. ML methods employed are Support vector machine (SVM), Naive bayes, Logistics regression, Knn and Decision tree. The performances of models were evaluated using accuracy score and running time. Naive Bayes proved to outperform in this case with 84% accuracy score and the least running time i.e. 0.11 seconds.
 
-![image](https://user-images.githubusercontent.com/85484281/214877276-57ddb0b9-e7da-4e51-bb32-26719226f867.png)
+![image](https://user-images.githubusercontent.com/85484281/214878082-377fcd85-a8c0-46dc-99ef-06890d66d681.png)
 
 ---
 ### **[Satellite image semantic segmentation](https://github.com/nguyen-nhat-mai/satellite-image-semantic-segmentation)**
