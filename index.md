@@ -4,9 +4,9 @@
 
 ### **[Fake news detection](https://github.com/nguyen-nhat-mai/fake-news-detection)**
 
-For this project, traditional machine learning (ML) classification methods were employed to mine the text and identify unreliable news. The dataset comprises 44,898 rows representing fake and reliable news. For each news, article title, text, type and the date the article was published on are provided. The majority of the news focus on political and world news topics. ML methods employed are Naive Bayes, Logistics Regression, Knn, Decision Tree. The performances of models were evaluated using accuracy score and running time. Decision Tree proved to outperform in this case.
+The task was to employ traditional machine learning (ML) classification methods to mine the text and identify unreliable news. The dataset comprises 26,000 rows representing fake and reliable news. For each article, title, text, author and label are provided. ML methods employed are Support vector machine (SVM), Naive bayes, Logistics regression, Knn and Decision tree. The performances of models were evaluated using accuracy score and running time. Naive Bayes proved to outperform in this case with 84% accuracy score and the least running time i.e. 0.11 seconds.
 
-![image](https://user-images.githubusercontent.com/85484281/213877316-300a49da-d577-451c-9e0c-5634a601071e.png)
+![image](https://user-images.githubusercontent.com/85484281/214877276-57ddb0b9-e7da-4e51-bb32-26719226f867.png)
 
 ---
 ### **[Satellite image semantic segmentation](https://github.com/nguyen-nhat-mai/satellite-image-semantic-segmentation)**
