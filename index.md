@@ -11,7 +11,7 @@ The task is to employ traditional machine learning (ML) classification methods t
 ---
 ### **[Satellite image semantic segmentation](https://github.com/nguyen-nhat-mai/satellite-image-semantic-segmentation)**
 
-The task is to employ deep learning to segment and classify the objects (26 labels) in the satellite images. The dataset comprises 374 images (3x3000x4000) of residential neighborhoods in Houston after the hurricane Harvey. 299 out of the total images have corresponding masks which are used for training deep learning models. The masks for the remaining 75 images are to be predicted. U-net, PSPNet & Deeplabv3 are employed and evaluated using dice score and cross entrophy loss. Deeplabv3 outperformed with 72.65% accuracy and 0.6 loss.
+The task is to employ deep learning to segment and classify the objects (26 labels) in the satellite images. The dataset comprises 374 images (3x3000x4000) of residential neighborhoods in Houston after the hurricane Harvey. 299 out of the total images have corresponding masks (an image where each pixel is assigned 1 out of 26 values corresponding to 26 labels). These are used for training deep learning models. The masks for the remaining 75 images are to be predicted. U-net, PSPNet & Deeplabv3 are employed and evaluated using dice score and cross entrophy loss. Deeplabv3 outperformed with 72.65% accuracy and 0.6 loss.
 
 ![image](https://user-images.githubusercontent.com/85484281/215187360-3b609176-daab-446c-9d89-7c7b87733686.png)
 
