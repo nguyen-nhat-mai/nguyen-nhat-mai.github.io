@@ -3,7 +3,7 @@
 ---
 ### **[Satellite image semantic segmentation](https://github.com/nguyen-nhat-mai/satellite-image-semantic-segmentation)**
 
-The task is to segment the objects (26 labels) in the satellite images. The dataset comprises 374 images (3x3000x4000) of residential neighborhoods in Houston after the hurricane Harvey. 299 out of the total images have corresponding masks (images where each pixel is assigned 1 out of 26 values corresponding to 26 labels). These are used for training deep learning models. The masks for the remaining 75 images are to be predicted. U-net, PSPNet & Deeplabv3 are employed and evaluated using dice score. Deeplabv3 outperformed with 72.65% accuracy.
+The task is to segment the objects (26 labels) in the satellite images. The dataset comprises 374 images (3x3000x4000) of residential neighborhoods in Houston after the hurricane Harvey. 299 out of the total images have corresponding masks (images where each pixel is assigned 1 out of 26 values corresponding to 26 labels). These are used for training deep learning models. The masks for the remaining 75 images are to be predicted. U-net, PSPNet & Deeplabv3+ are employed and evaluated using dice score. Deeplabv3+ outperformed with 72.65% accuracy.
 
 ![image](https://user-images.githubusercontent.com/85484281/215187360-3b609176-daab-446c-9d89-7c7b87733686.png)
 
@@ -16,11 +16,12 @@ The task is to employ traditional machine learning (ML) classification methods t
 ![image](https://user-images.githubusercontent.com/85484281/214878082-377fcd85-a8c0-46dc-99ef-06890d66d681.png)
 
 ---
-[CIFAR-10 Image classification](https://github.com/nguyen-nhat-mai/CIFAR-10-image_classification)
+### **[CIFAR-10 Image classification](https://github.com/nguyen-nhat-mai/CIFAR-10-image_classification)**
+
 
 
 ---
-[Detection of dangerous objects from airport Xray images]()
+### **[Detection of dangerous objects from airport Xray images]()**
 
 This is part of an ongoing corporate research project by ESSEC & CentraleSupelec with Deloitte. The mission is to develop a deep learning model to detect dangerous objects such as gun, razor, knife, etc. using the X-ray images. If implemented, the model is expected to reduce human errors at the customs and enhance the flight safety.
 
