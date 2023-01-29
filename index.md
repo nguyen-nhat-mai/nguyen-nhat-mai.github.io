@@ -18,7 +18,9 @@ The task is to employ traditional machine learning (ML) classification methods t
 ---
 ### **[CIFAR-10 Image classification](https://github.com/nguyen-nhat-mai/CIFAR-10-image_classification)**
 
+The mission is to build and try networks (based on popular deep learning network architectures such as VGG, Resnet, ...) on CIFAR-10 dataset to predict the class of the image. The popular CIFAR-10 contain 60,000 images of size 32x32. Each image belongs to 1 out of 10 classes (airplane, automobile, bird, cat, deer, dog, frog, horse, trip, truck). The evaluation metric is accuracy score. A snapshot into the data is as followed:
 
+![image](https://user-images.githubusercontent.com/85484281/215329326-83096d2e-2be3-41e3-bf20-12b27bbc17da.png)
 
 ---
 ### **[Detection of dangerous objects from airport Xray images]()**
