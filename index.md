@@ -23,6 +23,8 @@ As part of an ongoing corporate research project by ESSEC & CentraleSupelec with
 
 The objective is to build a classifier that can predicts opinion polarities (positive, negative or neutral) using language model given the clients' restaurant reviews and corresponding aspect categories. In this project, pretrain-bert was used to encode the text and fine-tuned (changing the final layer and trained for some epoches on this specific dataset) to build the complete model. The average accuracy achieved is 87.23% with standard deviation of 0.84%. [[More...]](https://github.com/nguyen-nhat-mai/sentiment_analysis)
 
+![image](https://user-images.githubusercontent.com/85484281/233020875-e758a8b9-e331-41f2-9ebd-edade0776d7b.png)
+
 ### Fake news detection
 
 The task is to employ traditional machine learning (ML) classification methods to mine the text and identify unreliable news. The dataset comprises 26,000 rows representing fake and reliable news. For each article, title, text, author and label are provided. ML methods employed are Support vector machine (SVM), Naive Bayes, Logistics regression, Knn and Decision tree. The performances of models are evaluated using accuracy score and running time. Naive Bayes proves to outperform in this case with 84% accuracy score and the least running time i.e. 0.11 seconds.[[More...]](https://github.com/nguyen-nhat-mai/fake-news-detection)
