@@ -37,3 +37,9 @@ The task is to employ traditional machine learning (ML) classification methods t
 
 ### Ile-de-france apartment price prediction
 Predicting house & apartment price is essential for the real-estate companies to remain profitable & competitive. Within the scope of this project, the client wants a robust model that can predict the price of newly constructed apartment in Ile-de-france. The records of mutations (ownership transfer) from 2014 to 2020 are provided by the client. Additional info such as the apartment geolocation, demographic & geographic info of the region are also used to feed the models. Among the models tried (Linear Regression, Decision Tree, Random Forest, Gradient Boosting & Extreme Gradient Boosting), Random forest got the best result on the final test set i.e. 85%. [[More...]](https://github.com/nguyen-nhat-mai/ile-de-france-apartment-price-prediction)
+
+### Train agents to play text flappy bird
+
+The project focuses on using reinforcement learning to train agents to play a text-based version of the popular video game, Flappy Bird. The goal is to find the optimal policy that maximizes the cumulative reward over time. Two reinforcement learning algorithms, Q-learning and SARSA, were used and compared in terms of their performance in reward and convergence time. Q-learning outperformed SARSA considering both mentioned metrics. [[More...]](https://github.com/nguyen-nhat-mai/train_agent_play_flappy-bird)
+
+![image](https://user-images.githubusercontent.com/85484281/233027137-02ffd55c-f7b8-4eba-93a9-1d7125353edc.png)
