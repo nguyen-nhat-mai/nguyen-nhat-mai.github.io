@@ -19,7 +19,7 @@ As part of an ongoing corporate research project by ESSEC & CentraleSupelec with
 
 # NATURAL LANGUAGE PROCESSING
 
-### Sentiment analysis
+### Restaurant reviews sentiment analysis
 
 The objective is to build a classifier that can predicts opinion polarities (positive, negative or neutral) using language model given the clients' restaurant reviews and corresponding aspect categories. In this project, pretrain-bert was used to encode the text and fine-tuned (changing the final layer and trained for some epoches on this specific dataset) to build the complete model. The average accuracy achieved is 87.23% with standard deviation of 0.84%. [[More...]](https://github.com/nguyen-nhat-mai/sentiment_analysis)
 
@@ -40,6 +40,6 @@ Predicting house & apartment price is essential for the real-estate companies to
 
 ### Train agents to play text flappy bird
 
-The project focuses on using reinforcement learning to train agents to play a text-based version of the popular video game, Flappy Bird. The goal is to find the optimal policy that maximizes the cumulative reward over time. Two reinforcement learning algorithms, Q-learning and SARSA, were used and compared in terms of their performance in reward and convergence time. Q-learning outperformed SARSA considering both mentioned metrics. [[More...]](https://github.com/nguyen-nhat-mai/train_agent_play_flappy-bird)
+The project focuses on using reinforcement learning to train agents to play a text-based version of the popular video game, Flappy Bird. The goal is to find the optimal policy that maximizes the cumulative reward over time (keep the bird alive as long as possible). Two reinforcement learning algorithms, Q-learning and SARSA, were used and compared in terms of reward and convergence time. Q-learning outperformed SARSA considering both mentioned metrics. [[More...]](https://github.com/nguyen-nhat-mai/train_agent_play_flappy-bird)
 
 ![image](https://user-images.githubusercontent.com/85484281/233027137-02ffd55c-f7b8-4eba-93a9-1d7125353edc.png)
